@@ -9,10 +9,10 @@ EditorBuildSettings:
     path: Assets/Scenes/MainMenu.unity
     guid: 9fc0d4010bbf28b4594072e72b8655ab
   - enabled: 1
-    path: Assets/Scenes/Level_1.unity
+    path: Assets/Scenes/Hilly Homes.unity
     guid: cba8917fc1d82e84b88f25f11cbb5452
   - enabled: 1
-    path: Assets/Scenes/Level_2.unity
+    path: Assets/Scenes/Freezing Alps.unity
     guid: eb0c4bc70e5265f449d4319415193107
   - enabled: 1
     path: Assets/Scenes/EndMenu.unity
